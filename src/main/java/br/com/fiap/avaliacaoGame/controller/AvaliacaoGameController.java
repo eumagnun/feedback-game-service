@@ -12,6 +12,7 @@ import java.util.List;
 @RequestMapping("/feedback-games/v1/api")
 public class AvaliacaoGameController {
 
+
     @Autowired
     AvaliacaoGameRepository repository;
 
